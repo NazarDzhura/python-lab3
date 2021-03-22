@@ -1,3 +1,6 @@
+import BookstoreItem
+
+
 class BookstoreManager:
     founded_items = []
 
